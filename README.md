@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Hi%2C+I'm+Adam+Pielak.;Senior+Security+Engineer.;Blue+team+%7C+Red+team+%7C+Infrastructure." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Hi%2C+I'm+Adam+Pielak.;Senior+Security+Engineer.;Blue+team+%7C+Red+team+%7C+CTF." alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -11,7 +11,13 @@ Security engineer with hands-on experience across the full security stack — fr
 - **Blue team** — Wazuh SIEM/XDR, OpenSearch, threat hunting, detection engineering, incident response
 - **Red team** — penetration testing, nuclei, vulnerability assessment, bug bounty
 - **Infrastructure** — Proxmox VE, Ansible, Zabbix, Linux hardening, network segmentation
-- **Automation** — Python, Bash, API integrations, active-response pipelines
+- **Automation** — Python, Bash, Rust, API integrations, active-response pipelines, AI/LLM tooling
+
+## Competitions & exercises
+
+- **[NATO Locked Shields](https://ccdcoe.org/locked-shields/)** — participant in the world's largest live-fire cyber defence exercise (NATO CCDCOE), blue team operations under simulated nation-state attacks
+- **[Cyber Legion](https://cyberlegion.wp.mil.pl/)** — cyberlegionist in the Polish Armed Forces civilian cyber reserve program; competitor in Operation Cyber Flag (Attack/Defence CTF for Polish national cyber resilience)
+- **CTF** — active player in Attack/Defence and Jeopardy-style competitions
 
 ---
 
@@ -43,6 +49,9 @@ Security engineer with hands-on experience across the full security stack — fr
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat)
 ![Zeek](https://img.shields.io/badge/Zeek-2980B9?style=flat)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 ---
 

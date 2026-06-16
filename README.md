@@ -15,6 +15,7 @@ Security engineer with hands-on experience across the full security stack — fr
 
 ## Competitions & exercises
 
+- **[Wazuh Ambassador](https://wazuh.com/ambassadors-program/)** — official Wazuh Ambassador in Poland; community expert contributing to the open-source SIEM/XDR ecosystem
 - **[NATO Locked Shields](https://ccdcoe.org/locked-shields/)** — participant in the world's largest live-fire cyber defence exercise (NATO CCDCOE), blue team operations under simulated nation-state attacks
 - **[Cyber Legion](https://cyberlegion.wp.mil.pl/)** — cyberlegionist in the Polish Armed Forces civilian cyber reserve program; competitor in Operation Cyber Flag (Attack/Defence CTF for Polish national cyber resilience)
 - **CTF** — active player in Attack/Defence and Jeopardy-style competitions
